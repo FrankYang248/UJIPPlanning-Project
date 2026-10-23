@@ -16,11 +16,13 @@ For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 
 ## Social-aware Motion Planning Simulation Results
 
-**Simulations:** [010](#simulation-010) · [038](#simulation-038) · [089](#simulation-089)
+**Simulations:** [#10](#simulation-10) · [#38](#simulation-38) · [#89](#simulation-89)
 
 Select an animation to view it at full resolution.
 
-### Simulation 010
+---
+
+## Simulation #10
 
 **Proposed (Ours)**
 
@@ -40,7 +42,9 @@ Select an animation to view it at full resolution.
   <img src="images/sim_010_simulation_SARL.gif" alt="SARL results for simulation 010" width="900">
 </a>
 
-### Simulation 038
+---
+
+## Simulation #38
 
 **Proposed (Ours)**
 
@@ -60,7 +64,9 @@ Select an animation to view it at full resolution.
   <img src="images/sim_038_simulation_SARL.gif" alt="SARL results for simulation 038" width="900">
 </a>
 
-### Simulation 089
+---
+
+## Simulation #89
 
 **Proposed (Ours)**
 

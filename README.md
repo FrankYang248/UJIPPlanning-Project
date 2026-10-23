@@ -1,8 +1,12 @@
 # UJIPPlanning Project
 
-Social-aware motion planning using infrastructure sensor nodes, global perception fusion, and an MPC-based planner with uncertainty estimation.
+Official Repo of "Uncertainty-Aware Joint Interaction Prediction and Planning for Omnidirectional Mobile Robots"
 
-This repository presents the system overview, simulation comparisons, and experimental videos for the UJIPPlanning project.
+Authored by Yufeng Yang, Minghao Ning, Keqi Shu, Jiaming Zhong*, Shucheng Huang, Ehsan Hashemi and Amir Khajepour.
+
+* indicates equal contribution.
+
+For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 
 ## Overall Structure
 
@@ -15,35 +19,37 @@ This repository presents the system overview, simulation comparisons, and experi
 <table>
   <caption><b>Simulation 010 Results</b></caption>
   <tr>
-    <td align="center">
-      <img src="images/sim_010_simulation_SARL.gif" alt="SARL results for simulation 010" width="300"><br>
-      <b>SARL</b>
-    </td>
-    <td align="center">
-      <img src="images/sim_010_simulation_conv.gif" alt="Conventional planner results for simulation 010" width="300"><br>
-      <b>Conventional</b>
     </td>
     <td align="center">
       <img src="images/sim_010_simulation_proposed.gif" alt="Proposed planner results for simulation 010" width="300"><br>
       <b>Proposed (Ours)</b>
     </td>
+    <td align="center">
+      <img src="images/sim_010_simulation_conv.gif" alt="Conventional planner results for simulation 010" width="300"><br>
+      <b>Conventional</b>
+    </td>      
+    <td align="center">
+      <img src="images/sim_010_simulation_SARL.gif" alt="SARL results for simulation 010" width="300"><br>
+      <b>SARL</b>
+    </td>  
   </tr>
 </table>
 
 <table>
   <caption><b>Simulation 038 Results</b></caption>
   <tr>
+    </td>
     <td align="center">
-      <img src="images/sim_038_simulation_SARL.gif" alt="SARL results for simulation 038" width="300"><br>
-      <b>SARL</b>
+      <img src="images/sim_038_simulation_proposed.gif" alt="Proposed planner results for simulation 038" width="300"><br>
+      <b>Proposed (Ours)</b>  
     </td>
     <td align="center">
       <img src="images/sim_038_simulation_conv.gif" alt="Conventional planner results for simulation 038" width="300"><br>
       <b>Conventional</b>
-    </td>
+    </td>    
     <td align="center">
-      <img src="images/sim_038_simulation_proposed.gif" alt="Proposed planner results for simulation 038" width="300"><br>
-      <b>Proposed (Ours)</b>
+      <img src="images/sim_038_simulation_SARL.gif" alt="SARL results for simulation 038" width="300"><br>
+      <b>SARL</b>
     </td>
   </tr>
 </table>
@@ -51,17 +57,18 @@ This repository presents the system overview, simulation comparisons, and experi
 <table>
   <caption><b>Simulation 089 Results</b></caption>
   <tr>
-    <td align="center">
-      <img src="images/sim_089_simulation_SARL.gif" alt="SARL results for simulation 089" width="300"><br>
-      <b>SARL</b>
-    </td>
-    <td align="center">
-      <img src="images/sim_089_simulation_conv.gif" alt="Conventional planner results for simulation 089" width="300"><br>
-      <b>Conventional</b>
     </td>
     <td align="center">
       <img src="images/sim_089_simulation_proposed.gif" alt="Proposed planner results for simulation 089" width="300"><br>
       <b>Proposed (Ours)</b>
+    </td>  
+    <td align="center">
+      <img src="images/sim_089_simulation_conv.gif" alt="Conventional planner results for simulation 089" width="300"><br>
+      <b>Conventional</b>
+    </td>  
+    <td align="center">
+      <img src="images/sim_089_simulation_SARL.gif" alt="SARL results for simulation 089" width="300"><br>
+      <b>SARL</b>
     </td>
   </tr>
 </table>

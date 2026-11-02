@@ -4,9 +4,9 @@ Official Repo of "Uncertainty-Aware Joint Interaction Prediction and Planning fo
 
 Authored by Yufeng Yang, Minghao Ning, Keqi Shu, Jiaming Zhong*, Shucheng Huang, Ehsan Hashemi and Amir Khajepour.
 
-* indicates equal contribution.
+\* indicates corresponding author.
 
-For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
+For questions, please get in touch with Jiaming Zhong, jiaming.zhong@uwaterloo.ca.
 
 ## Overall Structure
 
